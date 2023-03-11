@@ -1,0 +1,11 @@
+[41886:259:0308/124605.027180:WARNING:chrome_main_delegate.cc(618)] This is Chrome version 111.0.5563.64 (not a warning)
+[41886:259:0308/124605.681496:ERROR:chrome_browser_main.cc(1017)] The use of Rosetta to run the x64 version of Chromium on Arm is neither tested nor maintained, and unexpected behavior will likely result. Please check that all tools that spawn Chromium are Arm-native.
+[41886:259:0308/124614.802088:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[41886:259:0308/124619.113544:INFO:CONSOLE(3)] "Request for the Private Access Token challenge.", source:  (3)
+[41886:259:0308/124619.114888:INFO:CONSOLE(3)] "The next request for the Private Access Token challenge may return a 401 and show a warning in console.", source:  (3)
+[41886:259:0308/124619.262206:INFO:CONSOLE(3)] "console.groupEnd", source:  (3)
+[41886:259:0308/124622.480376:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[41886:259:0308/124623.978776:INFO:CONSOLE(3)] "Request for the Private Access Token challenge.", source:  (3)
+[41886:259:0308/124623.982748:INFO:CONSOLE(3)] "The next request for the Private Access Token challenge may return a 401 and show a warning in console.", source:  (3)
+[41886:259:0308/124624.038101:INFO:CONSOLE(3)] "console.groupEnd", source:  (3)
+[41886:259:0308/124700.385314:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

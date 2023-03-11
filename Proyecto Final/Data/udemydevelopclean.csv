@@ -1,0 +1,625 @@
+Title,Organization,Course_duration,Course_clases,Course_level,Course_actual_price,Course_original_price
+"Domina la Inteligencia Artificial con ChatGPT de OpenAi
+Aprende a utilizar chat gpt la herramienta de Inteligencia Artificial más avanzada de OpenAi paso a paso desde cero",Carlos Massa,41 minutos en total,14,Todos los niveles,"14,99 €","24,99 €"
+"Proyecto Ecommerce con Spring Boot y Arquitectura Hexagonal
+Aprende a crear una aplicación Ecommerce con Spring Boot y Arquitectura Hexagonal",Elivar Largo,13 horas en total,93,Intermedio,"14,99 €","19,99 €"
+"Desarrollar un Sistema de Reservas con Kotlin + API REST...
+Desarrollaremos la aplicación paso a paso.",Reynaldo devR,"4,5 horas en total",28,Todos los niveles,"14,99 €","24,99 €"
+"Inteligencia Artificial para Programadores con Prisa
+Introducción a la inteligencia artificial",Marco Antonio Aceves,24 horas en total,33,Principiante,"14,99 €","49,99 €"
+"Migra un Sitio Web de WordPress a otro Dominio o Hosting
+Migra un sitio web de WordPress a otro dominio o hosting, sin saber de programación, de forma fácil y simple.",Renato Jesús Yacolca Neyra,1 hora en total,19,Todos los niveles,"14,99 €","94,99 €"
+"Python Curso Completo - (Sintaxis,Numpy, Pandas, Matplotlib)
+Introducción a la programación y al análisis de datos con PythonCalificación: 5,0 de 5",Christian Gámez,"8,5 horas en total",60,Todos los niveles,"14,99 €","94,99 €"
+"Curso Fundamentos de GeneXus 18 - Aprende GeneXus desde cero
+Aprende los fundamentos del modelado de aplicaciones multi-experiencia con GeneXus, líder en plataformas de Low-Code.",GeneXus Training,9 horas en total,49,Principiante,"14,99 €","19,99 €"
+"Python 3 para principiantes (de cero a avanzado)
+Aprende Python desde cero hasta POO, Imágenes con OpenCV, Matemáticas con NumPy y gráficas con Matplotlib",Miguel Angel Camargo Rojas,"1,5 horas en total",12,Principiante,"14,99 €","19,99 €"
+"COREGAMES: conviértete en un desarrollador de videojuegos
+Con esta plataforma, no necesitas dinero para publicar tu juego, solo una idea, creer en ella y muchas ganas de triunfar",Diego Rojas Vega,5 horas en total,78,Intermedio,"14,99 €","44,99 €"
+"de 0 a DBA con Docker y PostgreSQL
+Despliegue y configuración del servidor de base de datos PostgreSQL en contenedores Dcoker.",Luciano Parruccia,"5,5 horas en total",67,Todos los niveles,"14,99 €","19,99 €"
+"Examen de C# | Principiantes e intermedios
+Evaluación de conocimientos fundamentales y habilidades intermedias en programación con C#",Layla Vargas Bonnet,"24,5 horas en total",217,Todos los niveles,"14,99 €","19,99 €"
+"Crea tu propio WhatsApp desde cero
+Desarrolla tu propia app de mensajería con React Native, Socket IO, Node, Express, Jwt, Real Time, Navigation, etc...",Agustin Navarro Galdon,"17,5 horas en total",186,Todos los niveles,"14,99 €","94,99 €"
+"Aprende PSeInt y Mejora tu Lógica de Programación desde Cero
+A través de muchos ejercicios aprenderás PSeInt y la Lógica de Programación para la vida real!",GM Technologies,"3,5 horas en total",33,Todos los niveles,"14,99 €","19,99 €"
+"Aprende JavaScript de CERO a EXPERTO
+Aprende JavaScript sin ningún conocimiento previo",Portal Ingeniería | +60.000 Students,3 horas en total,30,Principiante,"14,99 €","19,99 €"
+"Automatiza tus Tareas con Python
+SQL, Python Excel, APIs, Webscraping. Combinarás todas estas tecnologías para hacer tu día a día mas sencillo",Kevin Meneses González,2 horas en total,8,Principiante,"14,99 €","94,99 €"
+"Curso de ChatGPT para principiantes - Aprenda a utilizar el
+Utilización de la inteligencia artificial en los negocios y en la vida cotidiana con el software OpenAI Curso básico",Andreas Lang,"4,5 horas en total",22,Intermedio,"14,99 €","94,99 €"
+"Principios de pruebas software
+Principios, fundamentos, niveles y tipos.",Francisco Javier Arce Anguiano,4 horas en total,9,Principiante,"24,99 €","29,99 €"
+"CRUD con php, MVC, PDO, POO, JavaScript, Ajax y AdminLTE 3
+Como crear un CRUD con php8, MVC, PDO, POO, JavaScript, Ajax y AdminLTE 3",Apasoft Training,5 horas en total,52,Todos los niveles,"15,99 €","19,99 €"
+"El arte de Python - Python 3 desde 0 y para principiantes
+Aprende Python desde cero y conviértete en un experto, aprendiendo toda su sintaxis y algunas de sus famosas librerías","KNOWMENT Formación, consultoría y coaching",1 hora en total,15,Principiante,"15,99 €","19,99 €"
+"Examen de Python | Principiantes e Intermedio
+Evalúa tus habilidades en Python: Demuestra tus conocimientos básicos en programación",Francisco Javier Arce Anguiano,1 hora en total,5,Todos los niveles,"15,99 €","19,99 €"
+"Curso Wordpress 2023 básico.
+Curso introductorio wordprees",Pixel Pro Web,17 horas en total,116,Principiante,"19,99 €","24,99 €"
+"El nuevo curso sobre Inteligencia Artificial Chatgpt
+Un curso único sobre Inteligencia Artificial",Luis Roberto Pérez Rios,2 horas en total,18,Todos los niveles,"15,99 €","19,99 €"
+"Leaflet: Crea mapas interactivos para la web
+Una guía para implementar mapas interactivos en la web con Leaflet, una librería de código abierto para JavaScript",Luis Fernando Ramos,13 horas en total,56,Todos los niveles,"14,99 €","19,99 €"
+"Crea un sistema juego de preguntas en codeigniter 3 php 7
+Curso practico sistema básico usando el patrón mvc de codeigniter, html5, css3, bootstrap 5, plugin datatables y mysql",Get Tass,"7,5 horas en total",21,Intermedio,"14,99 €","19,99 €"
+"Kotlin MVVM: Curso de Android y Firebase (Jetpack + Dagger)
+Blog desde cero | Jetpack compose | Clean Architecture | MVVM | Dagger Hilt | Coroutines | Flow | CRUD Firebase Android",Layla Vargas Bonnet,"27,5 horas en total",98,Todos los niveles,"14,99 €","19,99 €"
+"Como crear un sistema de inventario en Codeigniter 4
+Como crear un sistema de inventario en Codeigniter 4",Walter Jorge,"4,5 horas en total",5,Intermedio,"14,99 €","19,99 €"
+"Programación en C desde básico a avanzado
+Domina C y desarrolla tus habilidades de programación: desde los conceptos básicos hasta la programación avanzada",Luis David Garcia Luis,"2,5 horas en total",87,Principiante,"14,99 €","49,99 €"
+"Javascript y Jquery - Frontend II
+curso de js con jquery interactivo",Juan Camilo Clavijo Sandoval,3 horas en total,16,Principiante,"14,99 €","94,99 €"
+"Machine Learning: Aplicado a Python y Data Science
+Aprende a crear algoritmos de Machine Learning en Python para estudiantes y profesionales",Tutos Coders,"6,5 horas en total",24,Principiante,"14,99 €","19,99 €"
+"Aprende Scratch de manera fácil y divertida
+Creatividad,Desarrollo e Imaginación.",Jonathan Goyes,18 horas en total,160,Principiante,"14,99 €","19,99 €"
+"API REST hecho en Laravel con arquitectura hexagonal y JWT
+En este curso aprenderás sobre como realizar un API REST implementado arquitectura hexagonal con Laravel",Luis Fernando Ramos,10 horas en total,7,Todos los niveles,"15,99 €","19,99 €"
+"Introducción a la programación con Python
+Un curso moderno para aprender a programar en 2023 con el lenguaje más popular del mundo.",Facundo Darfe,4 horas en total,42,Principiante,"14,99 €","19,99 €"
+"Machine Learning para principiantes
+Validación, verificación y como funcionan los modelos de machine learning, deep learning e inteligencia artificial",Raimundo Huaman Perez,4 horas en total,29,Principiante,"14,99 €","94,99 €"
+"Digiturno o Turnero Web Con Php Javascript Mysql
+Sistema de Gestion de Filas","Meta Brains, Nicolás Seia","2,5 horas en total",35,Principiante,"39,99 €","49,99 €"
+"Estructuras de Datos y Algoritmos
+Estructuras de datos y Algoritmos fundamentales necesarios para las entrevistas técnicas.",Luis Alfonso Martinez Alfaro,17 horas en total,40,Experto,"14,99 €","19,99 €"
+"Ultimate Alteryx Bootcamp para analistas de negocio- Español
+¡Comienza a utilizar Alteryx ya!",Cristian Camilo Vasquez Osorio,"21,5 horas en total",520,Principiante,"79,99 €","94,99 €"
+"MIT app inventor 2 (AI2) de cero a master, cero codificación
+Creación de aplicaciones móviles sin conocimientos de programación",Francisco Vicent,"20,5 horas en total",188,Intermedio,"14,99 €","19,99 €"
+"Aprende HTML y CSS: Domina las habilidades esenciales
+Aprende HTML5 y CSS3 de forma práctica [semantica, accesibilidad, responsive, flexbox, grid, menús]",Francisco Javier Arce Anguiano,9 horas en total,29,Experto,"24,99 €","29,99 €"
+"Exámen para Desarrolladores Web (Tres niveles de dificultad)
+Pon a prueba tus habilidades de desarrollador web. Desafíate a ti mismo y demuestra tus conocimientos.",Apasoft Training,"9,5 horas en total",45,Principiante,"15,99 €","19,99 €"
+"Master:Playwright con Python, pruebas automatizada (Español)
+Automatiza tus Pruebas con Playwright y Python atravez de multiples Ejemplos (EN ESPAÑOL).","KNOWMENT Formación, consultoría y coaching","2,5 horas en total",29,Principiante,"15,99 €","19,99 €"
+"Unity 3D + ChatOpenAI creando un Juego de Pelea.
+Desarrolla un juego 3d en tiempo record",Francisco Javier Arce Anguiano,"2,5 horas en total",23,Todos los niveles,"15,99 €","19,99 €"
+"Como hacer Videojuegos de terror con Godot 4 | Curso Español
+Crea tus primeros juegos en 3D usando Godot Engine",Pixel Pro Web,7 horas en total,86,Todos los niveles,"19,99 €","24,99 €"
+"WhatsApp Api con PHP Envío y Recepción de Mensajes
+WhatsApp Api con PHP Envío y Recepción de Mensajes, Creación de un Chat BOT, Integración con CHATGPT",Christian Ramirez,"4,5 horas en total",42,Todos los niveles,"14,99 €","94,99 €"
+"APP de cuentos con IA junto a ChatGPT | Flutter y NestJS
+Tu propia APP (Multi-Idioma) de cuentos generados con IA tipo Twitter utilizando Flutter y NestJS junto a ChatGPT",Yordis Escorcia Vasquez,6 horas en total,41,Todos los niveles,"14,99 €","69,99 €"
+"Master en Pruebas Técnicas: +70 Nuevos Ejercicios de Código
+Entrenamiento intensivo de Pruebas Técnicas y Lógica de Programación ¡Supera tu próxima Entrevista de Desarrollador!",Cristhian Carrascal,16 horas en total,156,Principiante,"14,99 €","19,99 €"
+"Fundamentos de Algoritmos, entrena tu Lógica en programación
+Mejora como Programador. Te explicamos diferentes Algoritmos junto a mucho practica. Desarrolla como un Profesional.",Marian Aguilera Mora,16 horas en total,156,Principiante,"14,99 €","19,99 €"
+"Análisis Exploratorio de Datos con Python y R
+Análisis y manejo de datos con Python y R.",Jaime Alfredo Avilés Flores,2 horas en total,43,Principiante,"14,99 €","19,99 €"
+"Curso de PHP desde básico
+Aprende desde cero PHP",Disco Duro de Roer,6 horas en total,41,Todos los niveles,"14,99 €","94,99 €"
+"Flutter para principiantes: desde 0 y full proyectos - 2023
+Inicia tu camino hacia Flutter de forma fácil y rápida.",Tomás Emiliano Lazarte,34 minutos en total,7,Principiante,"14,99 €","19,99 €"
+"Ultimate Python: de cero a programador experto
+Conviértete en programador experto viendo desde lo básico hasta lo más avanzado de Python",Rodrigo Villanueva Nieto,"10,5 horas en total",97,Principiante,"14,99 €","19,99 €"
+"Sumérgete en JavaScript | De cero a experto
+Variables, Bucles, Programación Orientada a Objetos, Métodos de Arrays, DOM, Eventos, Asincronía, Librerías, API...y MÁS",Jesus Montoya Vera,"11,5 horas en total",129,Todos los niveles,"14,99 €","24,99 €"
+"Construye tu propio Robot tipo SCARA con Arduino y Python
+Robótica, Python y Arduino, Motores paso a paso e Impresión 3D",Alan Rodriguez Lukifah,14 horas en total,183,Todos los niveles,"14,99 €","94,99 €"
+"Adaptadores en Android con Kotlin curso de 0 a 100
+Desarrolla aplicaciones en Android Studio con adaptadores de todo tipo, Spinner, RecyclerView, AutoComplete, Fragments",Davis Anderson Bastidas Vicente,6 horas en total,44,Principiante,"14,99 €","19,99 €"
+"JavaScript TOTAL - 18 Días para ser Desarrollador Web
+Crea sitios web desde 0. Un PROYECTO REAL por día. Practica con +130 ejercicios. HTML, CSS, Node.js, Angular, JSON y más",Juan Pablo Guamán Rodríguez,6 horas en total,69,Principiante,"14,99 €","19,99 €"
+"Aprende HTML5 de CERO a EXPERTO
+Aprende HTML sin ningún conocimiento previo",Víctor Robles,17 horas en total,147,Todos los niveles,"14,99 €","94,99 €"
+"Angular: Sistema para medicos con php - mysql y Angular v3
+Plantilla Admin LTE pro, impresión de recetas medias y almacenamiento de imágenes","Alvaro Chirou • 1.300.000+ Enrollments Worldwide, Brian De Vita",3 horas en total,31,Todos los niveles,"14,99 €","94,99 €"
+"Creación de Páginas Web con HTML
+(Nivel Básico)","Alvaro Chirou • 1.300.000+ Enrollments Worldwide, Walter Coto || +400,000 Estudiantes",10 horas en total,116,Todos los niveles,"14,99 €","94,99 €"
+"Algoritmos, Estructuras de Datos y Entrevistas Programación
++50 ejercicios de entrevistas programación. Big O, algoritmos y estructuras de datos. Lógica programación. Mejora tu CV.",Lucas Patrón,"9,5 horas en total",69,Todos los niveles,"14,99 €","19,99 €"
+"Aprende Java desde cero, en camino a la certificación
+Java de basico a avanzado, comenzando con estructuras y sintaxis simples hasta expresiones lambda y manejo de excepcione",Francisco Javier Arce Anguiano,7 horas en total,101,Intermedio,"24,99 €","29,99 €"
+"Desarrollo profesional con React
+Vite, API Rest, Login JWT, Formularios, Rutas, Context, Redux, Material,Next.js, Webpay de Transbank, Paypal",Apasoft Training,29 horas en total,231,Principiante,"15,99 €","19,99 €"
+"Crea tu Aplicación WEB con SYMFONY
+Aprende a crear tu propia Aplicación WEB con Symfony desde CERO","KNOWMENT Formación, consultoría y coaching",4 horas en total,18,Principiante,"15,99 €","19,99 €"
+"Angular Framework Intermedio - Código y UI de Calidad
+Monorepos, UI Frameworks, Scaffolding, Storybook y mucho más",Francisco Javier Arce Anguiano,"13,5 horas en total",101,Intermedio,"15,99 €","19,99 €"
+"Crea un bot de telegram automatizado con Node-Red
+Aprende a crear un bot automatizado de telegram con Node-Red",Pixel Pro Web,"2,5 horas en total",33,Principiante,"19,99 €","24,99 €"
+"Aprende a generar PDF's avanzados con Javascript
+Crear PDF's con diseños profesionales en tu aplicativo con Javascript.",Lucas Patrón,3 horas en total,20,Principiante,"14,99 €","19,99 €"
+"Cómo crear un sitio web con PHP y Mysql
+Aprenda uno de los lenguajes de programación más populares haciendo un proyecto web real",Juan Camilo Perdomo,"8,5 horas en total",50,Todos los niveles,"14,99 €","24,99 €"
+"TypeScript: La Guía Completa - De Cero a Profesional 2023
+Domina Typescript y su tipado, escribe código seguro y mejora x100 tu carrera como desarrollador","Alvaro Chirou • 1.300.000+ Enrollments Worldwide, Walter Coto || +400,000 Estudiantes",4 horas en total,51,Todos los niveles,"14,99 €","94,99 €"
+"APIs REST con Spring Boot: Facturación Electrónica - SIAT
+Aprende las bases necesarias de Facturación Electrónica y API's REST con Spring Boot",Edumar Group,"8,5 horas en total",90,Intermedio,"14,99 €","19,99 €"
+"WhatsApp API, Python y ChatGPT Enviar y recibir mensajes Bot
+WhatsApp Cloud API | Meta | Python | ChatGPT | Postman | REST | Web API | Deploy","Academia Apps, Codigo 369","2,5 horas en total",40,Todos los niveles,"14,99 €","94,99 €"
+"Curso Avanzado SQL Oracle para Empresas y Desarrollo
+Curso Avanzado SQL Oracle para Empresas y Desarrollo",Nicolas Schurmann,"1,5 horas en total",22,Intermedio,"14,99 €","29,99 €"
+"Curso CodeIgniter 4 con Pagos en Paypal
+Curso CodeIgniter 4 Avanzado con Paypal Checkout, aplicaciones seguras y mas",Programee Academy,"2,5 horas en total",26,Experto,"14,99 €","94,99 €"
+"Aprende Java desde cero a experto con ejercicios
+Aprende a programar con Java a través de ejercicios prácticos y desafiantes",Roboticoss | Edison Sásig,"1,5 horas en total",17,Todos los niveles,"29,99 €",
+"Aprende Lenguaje C, C++ y C# de CERO a EXPERTO
+Aprende a programar en C, C++ y C# sin ningún conocimiento previo","Alain Nicolás Tello, Frogames Support Team, María Santos","7,5 horas en total",76,Todos los niveles,"14,99 €","94,99 €"
+"Aplicación de empleados en PHP y MYSQL
+Aprenda a usar PHP haciendo una aplicación de empleados funcional y usable.","Federico Garay, Escuela Directa",6 horas en total,40,Todos los niveles,"14,99 €","19,99 €"
+"Crea un sitio web profesional en Wordpress + Tienda en línea
+Crea tu sitio web profesional con Wordpress + Tienda en línea sin Programación",Portal Ingeniería | +60.000 Students,20 horas en total,115,Principiante,"14,99 €","19,99 €"
+"Fundamentos de Programación 1: Conceptos preliminares
+Programación para principiantes",Alonso Nava,2 horas en total,16,Principiante,"14,99 €","24,99 €"
+"SQL y Ms Access para consultar Bases de Datos Relacionales
+Aprovecha el entorno gráfico de Microsoft Access para aprender SQL paso a paso, desde cero, de forma fácil y práctica.",Daniel Martínez Díaz,7 horas en total,56,Todos los niveles,"14,99 €","24,99 €"
+"Analytics Engineering en Google Cloud con DBT
+Aprende este nuevo enfoque para transformar datos que ya están adoptando grandes empresas en el mundo como Spotify.",Daniel Blanco Calviño,2 horas en total,16,Principiante,"14,99 €","49,99 €"
+"De 0 a desarrollador full stack Docker, PostgreSQL, Django
+Conocimientos básicos de tecnologías requeridas en el desarrollo e implementación de apps en Linux y Docker.",Gdl Estore,20 horas en total,115,Principiante,"19,99 €",
+"Curso HTML5 y CSS principiante desde cero (0)
+De retador a campeón!. Vamos desde cero con HTML Y CSS y crearás tu primera página web!.",César Cancino Zapata,1 hora en total,59,Principiante,"14,99 €","24,99 €"
+"Como crear un plugin para Wordpress: The Right Way
+Creacion de codigo PHP nivel intermedio",Francisco Javier Arce Anguiano,"6,5 horas en total",25,Experto,"24,99 €","29,99 €"
+"Como adaptar AdminLTE 2 y 3 en Codeigniter 4
+Aprende como adaptar las plantillas de AdminLTE en su versión 2 y 3 en Codeigniter 4",Apasoft Training,"2,5 horas en total",32,Todos los niveles,"15,99 €","19,99 €"
+"Crea tu primer Juego en Javascript
+Aprende a programar Juegos en JS. Control de movimientos DE personajes, creación de niveles , dificultades y mucho más!","KNOWMENT Formación, consultoría y coaching","4,5 horas en total",44,Todos los niveles,"15,99 €","19,99 €"
+"Crear un ecommerce FULLSTACK con LARAVEL Y ANGULAR
+Crea tu propia tienda online full stack con LARAVEL, ANGULAR , MYSQL, JWT, PAYPAL y CULQI + Deploy DigitalOceans",Francisco Javier Arce Anguiano,"3,5 horas en total",34,Todos los niveles,"15,99 €","19,99 €"
+"Curso raspberry y Arduino, controla todo desde tu teléfono
+Conocimiento de Arduino y Raspberry | desarrollo de apicaciones moviles con Xamarin Forms y Firebase",Pixel Pro Web,"3,5 horas en total",18,Intermedio,"19,99 €","24,99 €"
+".NET MAUI desde las bases hasta Profesional | Android | IOS
+Construye Aplicaciones Moviles con .NET MAUI | Integrando bases de datos| Entity Framework | Rest Services | Security",Luis Alejandro Vázquez Muñiz,"2,5 horas en total",7,Intermedio,"14,99 €","19,99 €"
+"Generar y Leer Código QR y BarCode en Net Core y JavaScript
+Aprende a crear , descargar , imprimir , leer codigos QR y BarCode en Net Core con ejercicios prácticos",Yirsis Serrano,"4,5 horas en total",28,Intermedio,"14,99 €","94,99 €"
+"OWASP, seguridad web
+Detecta, soluciona, replica y entiende los ataques web más comunes",Kariel Granados Orozco,"36,5 horas en total",134,Intermedio,"14,99 €","19,99 €"
+"Proyecto Práctico Backend + Frontend con VUE y Laravel
+Crearemos un sistema usando Backend y Frontend con Laravel, MySQL y VUE para gestión académica.",Diego Arca,1 hora en total,7,Principiante,"14,99 €","19,99 €"
+"Fundamentos de SQL en Oracle para Empresas y Desarrollo
+SQL Fundamentals curso especializado de lenguaje para empresas y equipos de desarrollo",Oscar Uh,"17,5 horas en total",101,Principiante,"14,99 €","34,99 €"
+"Crea un videojuego con Unity 2D y C sharp desde cero
+Aprende a programar y al mismo tiempo crea juegos 2D con Unity paso a paso con ejemplos prácticos y sencillos",Manuel Martín,"4,5 horas en total",72,Todos los niveles,"14,99 €","94,99 €"
+"Aprende Lenguaje C# de CERO a EXPERTO
+Aprende a programar en C# sin ningún conocimiento previo",Freddy Aguilar Rojas,6 horas en total,84,Intermedio,"14,99 €","49,99 €"
+"Programación cuántica para programadores no cuánticos
+Simular mediante programación en java un programa cuántico",Yudner Paredes,"3,5 horas en total",24,Todos los niveles,"14,99 €","19,99 €"
+"HTML & CSS INTENSIVO (Desde cero a experto).
+Aprenderas a crear paginas web modernas, con las mejores practicas.",Master Class,"2,5 horas en total",35,Principiante,"14,99 €","19,99 €"
+"Aprende SQL con MySQL
+Aprende SQ usando MySQL: uno de los lenguajes más utilizados en entornos empresariales y profesionales",Jonathan Castro,21 horas en total,106,Principiante,"14,99 €","19,99 €"
+"Automatización de Pruebas Móviles desde Cero con Appium
+Pruebas Automatizadas con Appium desde Cero para dispositivos Android",Walter Nick Suel Arroyo,3 horas en total,28,Principiante,"14,99 €","69,99 €"
+"VueJS Desde Cero hasta Profesional 2023
+Desarrolla Aplicaciones del mundo real con VueJS, Crea cualquier proyecto que te imagines con el framework JS más amado",Portal Ingeniería | +60.000 Students,"4,5 horas en total",19,Principiante,"14,99 €","29,99 €"
+"Docker - Guía práctica de uso para desarrolladores
+Dockerfile, Compose, DockerHub, Registros, Despliegues, Volúmenes, Multi-staged builds, Multi architecture builds, y más",Oscar Uh,"11,5 horas en total",98,Todos los niveles,"14,99 €","39,99 €"
+"Ecommerce Amazon | ASP.NET Core | React | Clean Architecture
+Construye con ASP.NET Core 7 y React un Ecommerce Amazon utilizando Clean Architecture | SQL Server | Authentication",Diego Arca,"19,5 horas en total",287,Todos los niveles,"14,99 €","49,99 €"
+"Examen conceptos básicos de JavaScript en epañol.
+Aprovecha esta oportunidad para poner a prueba tus habilidades y aprender más sobre JavaScript.",Andres Insuasty,"2,5 horas en total",14,Principiante,"14,99 €","24,99 €"
+"PHP 8 y MYSQL el curso práctico y desde cero
+El Curso donde aprenderás de una forma muy práctica y desde cero a crear Sitios Web dinámicos con PHP y MySQL",Pablo Hidalgo,"12,5 horas en total",121,Todos los niveles,"14,99 €","19,99 €"
+"Java primeros pasos
+Java es un lenguaje de programación",Francisco Javier Arce Anguiano,14 horas en total,131,Todos los niveles,"24,99 €","29,99 €"
+"Programación en C con juegos y estructuras de datos desde 0
+Aprende a programar en C de 0, Juegos y estructuras ;pilas,listas,colas ,arboles ABB,AVL, arboles B, tablas Hash y más!",Apasoft Training,"21,5 horas en total",113,Intermedio,"15,99 €","19,99 €"
+"Crea un Juego de Terror con Unreal Engine 5, desde 0 a Pro
+Crea un Juego de Terror con Unreal Engine 5, de 0 a Profesional","KNOWMENT Formación, consultoría y coaching",16 horas en total,125,Todos los niveles,"15,99 €","19,99 €"
+"Aprendé HTML desde cero
+El primer paso en el mundo del Desarrollo Web",Francisco Javier Arce Anguiano,1 hora en total,36,Principiante,"15,99 €","19,99 €"
+"Python Curso Completo todo en uno (Django, Pandas, APIs)
+Python Curso Completo todo en uno",Pixel Pro Web,51 horas en total,312,Todos los niveles,"19,99 €","24,99 €"
+"Aprende Base de Datos SQL Sistema manejador SQL Server
+Curso Introductorio de Base de Datos",Andres Insuasty,"8,5 horas en total",20,Todos los niveles,"14,99 €","24,99 €"
+"Chat en tiempo real FULLSTACK con LARAVEL Y ANGULAR
+En este curso, crearás un chat en tiempo real utilizando Laravel, Angular, WebSockets, Mysql + Deploy DigitalOceans",Diego Arca,"1,5 horas en total",41,Principiante,"39,99 €","49,99 €"
+"Crud en Javascript, API fetch, MySQL php y github desde cero
+Aprende a crear un sitio web haciendo uso de las herramientas básicas que utilizan los sistemas profesionales actuales.",Alexander Nabí León Rojas,10 horas en total,48,Intermedio,"24,99 €",
+"Como Crear Reproductores con HTML5, CSS, JAVASCRIPT
+Reproductores con Api Media de Javascript",Academia SOFI - Claudia A. Castillo Chavarro y Juan Manuel Sánchez Barrero,34 minutos en total,13,Principiante,"15,99 €","19,99 €"
+"Clean PHP - Código de Calidad y Buenas Prácticas
+Código Escalable, Mantenible y Testeable",Big Data IoT Cloud,"15,5 horas en total",81,Principiante,"14,99 €","19,99 €"
+"MySql / MariaDB Fulltext Search
+Fulltext Search (FTS) permite usar MYSQL o MARIADB con un lenguaje natural para realizar consultas a bases de datos de G",Luciano Parruccia,3 horas en total,14,Todos los niveles,"14,99 €","39,99 €"
+"Dapper el Curso Completo y Definitivo
+Aprende Dapper en .NET 7 Creando Proyectos: Consultas, Procedimientos Almacenados, Base de Datos, Relaciones, Contrib",Guillermo Visintini,2 horas en total,17,Intermedio,"14,99 €","29,99 €"
+"Flutter 3: Aprendamos con proyectos Desde Cero
+Adquiere habilidades y domina los widgets en Flutter",Cristino zamora,"10,5 horas en total",83,Intermedio,"14,99 €","59,99 €"
+"Desarrollar un Sistema De Citas Médicas en Laravel 8
+Desarrollaremos un Sistema desde 0",Luis Fernando Ramos,"2,5 horas en total",19,Experto,"14,99 €","19,99 €"
+"Aprende Python: De 0 a PRO de manera totalmente práctica
+¡En tan solo 10h!, desde 0 hasta PRO, aprendiendo Webautomation, Webscrapping, API's, Data Science y Machine Learning",Luis orlando muñoz bueno,11 horas en total,93,Todos los niveles,"14,99 €","19,99 €"
+"Master en APIs RESTful con NodeJS: Crea 3 backends completos
+Crea APIs REST con Node, MongoDB y Express para una app como Spotify, una red social como Twitter y un blog paso a paso",Jose Jaico,16 horas en total,93,Principiante,"15,99 €","19,99 €"
+"Web Scraping moderno con Python usando Scrapy Seleniun
+Aprende el Lenguaje de Programación python y aplicar webscraping",Luis David Herrera Medina,7 horas en total,51,Todos los niveles,"14,99 €","29,99 €"
+"WhatsApp API y C# .NET Chatbot Enviar y recibir mensajes
+WhatsApp Cloud API | Meta | C# .NET | Postman | Web App | API | Deploy",Vaxi Drez,10 horas en total,73,Todos los niveles,"14,99 €","19,99 €"
+"Aprende a Crear tu primera WebAPP con React y TypeScript
+Crea tu primera WebAPP una Pokedex Funcional con React y TypeScript",Licito Hurol,17 horas en total,146,Todos los niveles,"14,99 €","19,99 €"
+"AWS Lambda / CloudFormation con Python
+Crea APIs en python usando lambda y CloudFormation en AWS",Lord Astra,"3,5 horas en total",28,Experto,"15,99 €","19,99 €"
+"Crea páginas web profesionales con wordpress y elementor
+Aprende a crear páginas web profesionales sin programar con Wordpress y Elementor",Christian Gámez,"2,5 horas en total",30,Todos los niveles,"14,99 €","94,99 €"
+"Desarrollo frontend con Angular
+API Rest, JWT, Login, Mapas, Formularios, Rutas, Pipes, Material, Webpay de Transbank, Paypal, Mercado Pago",Francisco Javier Arce Anguiano,"2,5 horas en total",20,Principiante,"24,99 €","29,99 €"
+"Diseño de apps | Técnicas avanzadas de App Inventor kodular
+Base de datos, Diseños agradables, listview de productos, app tipo negocio, calculos , usando mapas, sensores, tips",Apasoft Training,6 horas en total,27,Intermedio,"15,99 €","19,99 €"
+"Curso de Python 3 desde básico
+Aprende a programar","KNOWMENT Formación, consultoría y coaching","2,5 horas en total",36,Principiante,"15,99 €","19,99 €"
+"Curso Phyton desde 0
+Aprende a programar",Francisco Javier Arce Anguiano,"19,5 horas en total",131,Principiante,"15,99 €","19,99 €"
+"Aprende a programar en C# desde cero
+Aprender a programar en C# desde cero viendo videos y practicando con código",Pixel Pro Web,"6,5 horas en total",34,Intermedio,"19,99 €","24,99 €"
+"Desarrollo web desde 0 + Diseño web para defenderse
+Curso intensivo donde aprenderás HTML, CSS3, JavaScript, JQuery, Responsividad Y Diseño web básico",Master Class,"1,5 horas en total",12,Principiante,"14,99 €","19,99 €"
+"Desarrollando una API REST con Golang y GORM
+Aprende a desarrollar una API REST con Golang utilizando los paquetes Fiber, Gorm, Viper y JWT.",Luis Alberto Castillo,"4,5 horas en total",15,Todos los niveles,"14,99 €","19,99 €"
+"Programación en Go (Golang)
+Programa con el mejor lenguaje, desde cero, con ejercicios de estructuras de datos y algoritmos",Portal Ingeniería | +60.000 Students,"12,5 horas en total",105,Principiante,"14,99 €","19,99 €"
+"Programando con Python - parte1
+Programando con Python - parte1",Avelino Garcia,45 horas en total,162,Principiante,"14,99 €","24,99 €"
+"SQL: Desde cero para principiantes
+Jorge, con experiencia en Data Science, te enseñará bases de datos desde cero.",Michael Linares,4 horas en total,31,Intermedio,"14,99 €","19,99 €"
+"WebSocket en Asp .Net Core crea aplicaciones en tiempo real
+Aprende a crear aplicaciones con Asp .net Core en tiempo real usando Web Socket",Apasoft Training,16 horas en total,119,Todos los niveles,"14,99 €","19,99 €"
+"Universidad C - Aprende el Lenguaje C - Para Principiantes!
+Aprende a programar en el Lenguaje C desde Cero y de la manera más divertida y sencilla!",Henry Zacarias,5 horas en total,18,Principiante,"14,99 €","19,99 €"
+"TypeScript sin fronteras: guía definitiva
+Todo lo que necesitas saber de TypeScript en un solo lugar",Manuel Martín,5 horas en total,43,Todos los niveles,"14,99 €","94,99 €"
+"Desarrollo web Full con HTML5, CSS3, JS, AJAX, PHP8 y MySQLi
+Sitio Web desde cero, con acabados personalizados, moderno y funcionalidad óptima, pensado para usuarios y para Google.",Fernando Herrera,"8,5 horas en total",106,Todos los niveles,"219,99 €",
+"codigo fuente sistema de gimnasio java mysql con poo
+sistema de gimnasio en java mysql con poo",Vaxi Drez,11 horas en total,113,Todos los niveles,"14,99 €","19,99 €"
+"Go de cero a profesional - Bases, REST & Microservicios
+Bases del lenguaje Go, aplicaciones REST, estructura de proyectos y Microservicios.",Juan Pablo Rodriguez Barajas,"5,5 horas en total",74,Intermedio,"19,99 €",
+"Curso de ApiRest con spring boot
+Aprender Spring el framework empresarial mas usado del mundo",Roberto Martín Castillo Ramos,"15,5 horas en total",83,Todos los niveles,"14,99 €","29,99 €"
+"Aprende Python, Java y C# para Principantes desde Cero!
+Domina los fundamentos de Python, Java, y C# desde Cero. Especial para programadores principiantes!",York Shire,34 minutos en total,5,Principiante,"14,99 €","94,99 €"
+"Aprende Lenguaje C y C++ de CERO a EXPERTO
+Aprende a programar en C y C++ sin ningún conocimiento previo",Juan Guillermo Araya Toledo,16 horas en total,132,Principiante,"14,99 €","19,99 €"
+"Ionic 6: Crea aplicaciones móviles iOS y Android con React
+Ionic, React, Formik, Yup, Realtime, Chat Online, Channels, Deploy APK y IPA.",Vanesa Gómez Paniza,2 horas en total,14,Todos los niveles,"14,99 €","19,99 €"
+"Python para Profesionales. Mejora tu Desarrollo.
+Si ya sabes Python y quieres dar un paso más, para manejar conceptos avanzados del desarrollo con este lenguaje.",Matías Coletta,"40,5 horas en total",401,Principiante,"14,99 €","19,99 €"
+"pgBouncer: gestor de conexiones para servidores PostgreSQL
+Aumenta el rendimiento del servidor PostgreSQL gracias al gestor de pools de conexiones más extendido actualmente",Francisco Javier Arce Anguiano,5 horas en total,48,Todos los niveles,"24,99 €","29,99 €"
+"Plus | + Módulos EXTRA | APP DELIVERY Multi Servicio | UBER
+Uber Taxi | Categorías productos | Buscador inteligente | Notifica pedidos a riders específicos | Autorización de store",Apasoft Training,10 horas en total,106,Todos los niveles,"15,99 €","19,99 €"
+"Curso Completo Crea páginas Web Wordpress + Elementor PRO
+Aprende a Construir Páginas Webs, Blogs y Landing pages como un Profesional SIN saber Programar y SIN Utilizar Código","KNOWMENT Formación, consultoría y coaching","3,5 horas en total",40,Todos los niveles,"15,99 €","19,99 €"
+"Transiciones y animaciones creativas en CSS 3
+Tu guía práctica para crear transiciones y animaciones sobre elementos HTML con CSS",Francisco Javier Arce Anguiano,2 horas en total,26,Intermedio,"15,99 €","19,99 €"
+"Kotlin: Crea aplicaciones con Google ML en Android Studio
+Diseña y crea proyectos profesionales con Kotlin y las herramientas de Google Machine Learning desde cero",Pixel Pro Web,1 hora en total,11,Todos los niveles,"19,99 €","24,99 €"
+"Programación funcional, expresiones lambda y Streams en Java
+Programación funcional, expresiones lambda y streams desde java 8 hasta novedades en java 17",Omar Ledesma,7 horas en total,45,Principiante,"14,99 €","19,99 €"
+"Curso de Programación Básica en Python
+Programación básica en Python",Cecilia Cobian Sandoval,"13,5 horas en total",141,Principiante,"14,99 €","44,99 €"
+"Guía rápida de lombok en español
+Aprende a utilizar lombok desde cero",Jose Jaico,"4,5 horas en total",67,Todos los niveles,"14,99 €","19,99 €"
+"Curso de Programación Básica - tus primeros pasos
+Aprende desde cero a pensar como un desarrollador y desarrolla ya tus primeros sistemas. Aprenderás Python 3 desde 0",Gustavo Arias,"5,5 horas en total",63,Todos los niveles,"14,99 €","19,99 €"
+"Programacion Web PHP, MVC, POO y MySQL - Tienda Online
+aprende a contruir una tienda onlinde desde cero usando PHP , JAVASCRIPT , HTML Y MYSQL sin depender de frameworks",Jose ventura Chavez,"2,5 horas en total",20,Principiante,"14,99 €","34,99 €"
+"SQL- Curso completo de Bases de Datos - Básico - Avanzado
+Aprenderás todo relacionado a base de datos",Yirsis Serrano,"2,5 horas en total",26,Principiante,"14,99 €","94,99 €"
+"Jetpack Compose desde cero, migra tus vistas de Android XML
+Crear apps en Android Studio con Jetpack Compose. Aprende a convertir tus archivos XML en vistas con Kotlin y Compose!",Lisandro Alberto Echeverria Villalobos,23 horas en total,239,Principiante,"14,99 €","29,99 €"
+"Master en Kubernetes de principiante a Experto
+Diseña aplicaciones con arquitectura de sistemas distribuidos con Kubernetes",render2web . 100.000+ Estudiantes en Todo el Mundo,"29,5 horas en total",145,Experto,"14,99 €","94,99 €"
+"Vue.js - Intermedio: Lleva tus bases al siguiente nivel
+Vue 3, Pinia, Vite, TypeScript, Composition API, Script Setup, Vue-Query, Quasar, Caché y más",Enrique Márquez,"4,5 horas en total",49,Todos los niveles,"14,99 €","19,99 €"
+"Diseño Web Profesional desde cero
+El Curso donde aprenderás de una forma muy práctica y desde cero a diseñar cualquier sitio Web",Reynaldo devR,12 horas en total,105,Todos los niveles,"14,99 €","24,99 €"
+"¡Crea tu portfolio web desde 0 con HTML5 y CSS3!
+Da tus primeros pasos en la programación web y aprende los dos principales lenguajes de la web paso a paso",Daniel Acero Sagredo,"6,5 horas en total",45,Intermedio,"14,99 €","19,99 €"
+"Resolución del modelo de examen ISTQB Agile Tester (CTFL-AT)
+Lo importante no son las respuestas, sino las explicaciones de cómo llegar a ellas.",Víctor Robles,"15,5 horas en total",144,Intermedio,"14,99 €","94,99 €"
+"Aprende a crear una API RESTful con Java y Spring Boot
+Aprende a crear una API RESTful con Java y Spring Boot desde cero",Luis orlando muñoz bueno,30 horas en total,205,Todos los niveles,"14,99 €","19,99 €"
+"Aprende Java 18 y Buenas Prácticas desde 0
+Aprende Java y Buenas Practicas de Desarrollo desde el momento 0 para que puedas introducirte al desarrollo profesional.",Yudner Paredes,5 horas en total,44,Principiante,"14,99 €","19,99 €"
+"De Cero a Experto en HTML5 y CSS3.
+Aprende todo el mundo de la programación.",Davis Anderson Bastidas Vicente,2 horas en total,8,Principiante,"14,99 €","19,99 €"
+"NodeJS: De Cero a Experto ( CONEXIONES-APIS-CONSOLA-BOTS )
+Las conexiones se encuentran aquí - mongoDB - robo3T - MySQL - APIrest local - Sockets - BOT y mas",Andres Rojas,"4,5 horas en total",37,Principiante,"14,99 €","19,99 €"
+"Desarrollo web ultra rápido con Astro
+Aprender a usar astro para crear sitios web integrando otras herramientas como React, Svelte o Vue",Francisco Javier Arce Anguiano,6 horas en total,59,Principiante,"24,99 €","29,99 €"
+"Curso Mastering Google Chrome DevTools
+Aprenda a utilizar DevTools, incluidas herramientas de rendimiento, Lighthouse, accesibilidad entre muchas otras.",Apasoft Training,"9,5 horas en total",69,Todos los niveles,"15,99 €","19,99 €"
+"Bootcamp Python : Aprende programación desde cero con Python
+Aprenda a programar desde cero,","KNOWMENT Formación, consultoría y coaching",13 horas en total,127,Todos los niveles,"15,99 €","19,99 €"
+"APL | Introducción al lenguaje de arrays
+Curso de introducción a Array Programming Language / A Programming Language",Francisco Javier Arce Anguiano,"7,5 horas en total",75,Todos los niveles,"15,99 €","19,99 €"
+"NLP con Python: Procesamiento de Lenguaje Natural con Python
+Aprende los fundamentos del NLP con Python",Pixel Pro Web,"2,5 horas en total",60,Todos los niveles,"19,99 €","24,99 €"
+"WordPress Master class 2023 + Ecommerce + Hacks y Trucos
+El único curso de Wordpress 6 dictado por un Google Expert certificado para llevar tu web al siguiente nivel",Rubén Andrés Alvarado Orozco,87 horas en total,402,Todos los niveles,"14,99 €","19,99 €"
+"Programación Funcional con Kotlin
+Aprende los fundamentos de la programación funcional, de forma práctica, y de una vez por todas!",César Cancino Zapata,40 minutos en total,5,Todos los niveles,"14,99 €","24,99 €"
+"Crea tu portafolio como Data Engineer | 4 proyectos Reales
+Conviértete en un Data Engineer | Pipelines Ingeniería de datos | AWS Free Tier | Crea Apps Interactivas con Streamlit",Yobi Lozano,"12,5 horas en total",128,Todos los niveles,"14,99 €","19,99 €"
+"Crea y automatiza Reportes con Python en Word y Excel.
+Crea reportes de forma automatizada y profesionales con estadísticas con Python. En formato de Excel y Word.",Edumar Group,"5,5 horas en total",46,Principiante,"14,99 €","19,99 €"
+"Node, MongoDB, MySQL, Handlebars, APi Rest, Nestjs
+Express,, Sequelize, Mongoose, Nestjs, TypeOrm, Prisma, Swagger, Webpay de Transbank",Diego Nunez,8 horas en total,47,Intermedio,"19,99 €",
+"Introducción a la visualización de datos en R con ggplot2
+Aprende a hacer gráficos con ggplot2",Misael Cazarez,"5,5 horas en total",53,Intermedio,"14,99 €","49,99 €"
+"React Native MVVM: App Delivery NodeJS MySQL Pasarelas Pagos
+React Native | Typescript | Clean Architecture | MVVM | Node.js | MySQL | Mercado Pago | Stripe | CRUD API REST | Hooks",Andreas Spektor,7 horas en total,52,Todos los niveles,"14,99 €","94,99 €"
+"HTML-CSS-JavaScript: Desde la nada al máximo
+La base indispensable para trabajar en FrontEnd",Roberto Suárez Litardo,"24,5 horas en total",239,Todos los niveles,"14,99 €","24,99 €"
+"Cómo crear un Servidor de Minecraft con Mods (2022)
+Aprenderás a como crear y configurar tu propio servidor de Minecraft con Mods para jugar con tus amigos.",Jorge Salgado Miranda,3 horas en total,14,Principiante,"14,99 €","29,99 €"
+"C# Tec Mont
+developer software",Alison A,"36,5 horas en total",164,Todos los niveles,"14,99 €","19,99 €"
+"Preguntas de entrevista sobre WordPress (2022 ACTUALIZADO)
+¡Aprende sobre WordPress con estas preguntas de entrevista!","Jorge Alberto Chavez Sarmiento, Numpi Cursos","81,5 horas en total",280,Todos los niveles,"14,99 €","94,99 €"
+"Curso de Java - Nivel Básico
+Java Nivel Básico",Licito Hurol,34 minutos en total,10,Todos los niveles,"14,99 €","19,99 €"
+"Google Maps SDK para Android y Kotlin de la A a la Z
+Crea apps con mapas con Kotlin y Android, API Maps para android: Rutas, ubicación, marcadores, StreetView, listas, tipos",Global Mentoring Ing. Ubaldo Acosta,4 horas en total,33,Principiante,"14,99 €","19,99 €"
+"Crear páginas web sin gastar dinero con Xampp y WordPress.
+Usted podrá crear páginas web sin invertir 1 solo dólar. Nadie robará sus ideas ya que tendrá su propio servidor local.",Nicolas Schurmann,"17,5 horas en total",124,Intermedio,"14,99 €","29,99 €"
+"React intensivo: desde cero y actualizado para principiantes
+Hooks, Routers, CRUD Firebase-firestore, Context API, Styled-components, Vite, Crear componentes, +Proyectos finales",Oscar Larrahondo,3 horas en total,23,Todos los niveles,"14,99 €","94,99 €"
+"Ecommerce con PHP y MySQL (Tienda Online)
+Tienda Virtual con PHL y MySQL",tusolutionweb tutos dev,31 horas en total,215,Principiante,"14,99 €","19,99 €"
+"Bootcamp de desarrollo Web con Free Pascal #1 - FrontEnd
+Crea Webapps con Free Pascal/Lazarus",Francisco Javier Arce Anguiano,2 horas en total,21,Todos los niveles,"24,99 €","29,99 €"
+"Unreal Engine 5: Blueprints
+La guía completa para aprender a programar en Blueprints con UE5.",Apasoft Training,"9,5 horas en total",56,Todos los niveles,"15,99 €","19,99 €"
+"Flutter Avanzado con GetX : App Móvil con Python y MongodB
+GetX , Provider, Controller, Repository , Mongodb, Python, Flask, Docker, Restapi, Estructura Getx, Servicio web, y más.","KNOWMENT Formación, consultoría y coaching",7 horas en total,65,Todos los niveles,"15,99 €","19,99 €"
+"Microsoft Access: Desde cero para principiantes
+Aprenderás a administrar bases de datos como un profesional",Francisco Javier Arce Anguiano,"28,5 horas en total",118,Principiante,"15,99 €","19,99 €"
+"Sitio web con PHP usando Yii Framework
+Aprenda a crear un sitio web de forma rápida con uno de los frameworks más populares de PHP, llamado Yii Framework",Pixel Pro Web,3 horas en total,18,Principiante,"19,99 €","24,99 €"
+"Fundamentos de la Programación en PseInt - Avanzado
+Curso PseInt de cero a experto",Nahuel Costamagna,"2,5 horas en total",32,Todos los niveles,"14,99 €","89,99 €"
+"Python - Introducción a la programación multihilo (Threads)
+Aprende de manera rápida y sencilla a trabajar con programación multihilo en Python",Marcos González,"5,5 horas en total",41,Intermedio,"14,99 €","19,99 €"
+"Aplicativos Web
+Desarrollo web con HTML, CSS, PHP, JavaScript, JQuery, AJAX y Materialize","Global Mentoring Ing. Ubaldo Acosta, Sergio Alejandro Pérez Gabriel",2 horas en total,11,Intermedio,"14,99 €","19,99 €"
+"Aprende Lenguaje C++ de CERO a EXPERTO
+Aprende a programar en C++ sin ningún conocimiento previo",Portal Ingeniería | +60.000 Students,"16,5 horas en total",106,Todos los niveles,"14,99 €","29,99 €"
+"Git. Curso completo de Git y Github. Aprende desde cero
+Git y Github. Aprende a trabajar con repositorios locales y remotos con Git y GitHub, mediante ejemplos y 7 ejercicios",Agustin Navarro Galdon,"2,5 horas en total",25,Principiante,"14,99 €","94,99 €"
+"Máster No-Code. Programación Visual
+Conoce los más importantes programas usados para crear todo tipo de proyectos sin tener que programar ni usar código.","Alvaro Chirou • 1.300.000+ Enrollments Worldwide, Brian De Vita","4,5 horas en total",91,Principiante,"14,99 €","94,99 €"
+"Python de 0 a Héroe
+Curso diseñado para principiantes del lenguaje Python, incluye reconocimiento facial",Loles Ferrándiz,11 horas en total,226,Todos los niveles,"14,99 €","39,99 €"
+"Aprende Java desde cero y en tiempo récord
+¡Da el salto a proyectos empresariales web y móviles, así como videojuegos!",Juan Pablo Guamán Rodríguez,17 horas en total,133,Principiante,"14,99 €","94,99 €"
+"Spark y Scala en Databricks: Big Data e ingeniería de datos
+Trabajo desde niveles básicos hasta avanzados con RDD y DataFrame.",Adrián Gallardo Benítez,4 horas en total,11,Intermedio,"14,99 €","19,99 €"
+"Desarrolla una tienda online con WooCommerce y Storefront
+Conviértete en desarrollador de WooCommerce y aprende a desarrollar tus propios temas para crear tiendas online",Andrés Cruz Yoris,11 horas en total,84,Todos los niveles,"14,99 €","19,99 €"
+"Elabora CRUD desde tabla HTML hacia Postgresql usando Django
+Aprende a utilizar Ajax de jQuery desde el FrontEnd y envía datos hacia el BackEnd Django, tanto manual como con plugins",Red System Studio,"19,5 horas en total",159,Todos los niveles,"14,99 €","19,99 €"
+"TU propia APP de DELIVERY Internacional | Flutter 3 y NestJS
+Inglés-Español | Provider | REST API | Sockets | Cloud | Pago con Tarjeta y Efectivo | Mapas Integrados | Null-Safe",Rene Alejandro Calderon,9 horas en total,81,Principiante,"14,99 €","94,99 €"
+"FastAPI, MySQL, MongoDB,Swagger
+Aprenderás a trabajar con FasAPI para las necesidades del mercado real.",Estuardo Ramirez,9 horas en total,62,Todos los niveles,"14,99 €","19,99 €"
+"Automatización con Selenium Webdriver para principiantes
+Aprende a automatizar pruebas de software",Alejandro Agapito Bautista,7 horas en total,87,Principiante,"14,99 €","19,99 €"
+"Curso de python
+Aprenda uno de los lenguajes de programación más populares y creemos juntos nuestras primeras aplicaciones con python","Pablo Tilotta - +170k students, Global Mentoring Ing. Ubaldo Acosta","4,5 horas en total",34,Principiante,"14,99 €","29,99 €"
+"Aprende a crear videojuegos con Godot 4 | Curso definitivo
+En este curso haremos varios juegos en 2d y 3d y Aprenderás desde 0 a programar en GDScript",Luis orlando muñoz bueno,"10,5 horas en total",136,Todos los niveles,"14,99 €","19,99 €"
+"Lógica de Programación 2022 (Tecnicatura Universitaria)
+Vamos a lo mas avanzado de la lógica de programación con Arreglos Matrices Funciones Recursividad POO en C++ y mucho mas",Francisco Javier Arce Anguiano,"10,5 horas en total",47,Principiante,"24,99 €","29,99 €"
+"Web API con .NET CORE y Swagger + Dapper + SQL Server
+Crear tus propias Web API y diseña tu base de datos con Sql Server",Apasoft Training,"24,5 horas en total",206,Todos los niveles,"15,99 €","19,99 €"
+"AWS orientado a datos
+Lambdas, EventBridge, Cloudwatch, RDS Aurora Serverless 2, SecretManager, DynamoDB, SNS, alertas a Discord / Slack.","KNOWMENT Formación, consultoría y coaching","6,5 horas en total",34,Todos los niveles,"15,99 €","19,99 €"
+"Nest + GraphQL: Evoluciona tus APIs
+Autenticación, autorización, DigitalOcean, Docker, Docker Hub, code first, queries, mutations, enumeraciones y más",Francisco Javier Arce Anguiano,"8,5 horas en total",54,Todos los niveles,"15,99 €","19,99 €"
+"API REST con PHP 8 y MySQL - Token Authentication
+Aprende a desarrollar y consumir APIS RESTFUL desde cero, paso a paso con PHP, MVC, POO y MySQL",Pixel Pro Web,"18,5 horas en total",163,Intermedio,"19,99 €","24,99 €"
+"R Programming: De Principiante a Avanzado
+Jorge, con experiencia en Data Science, te enseñará programación en R desde cero hasta análisis de datos.",Faustino Lima Marcañaupa,"23,5 horas en total",166,Todos los niveles,"15,99 €","19,99 €"
+"Especialización Arduino + Python (El curso más completo)
+Curso completo de Arduino y Python, Domótica, reconocimiento facial, comunicaciones, bases de datos y muchos temas más.","Alain Nicolás Tello, Frogames Support Team, María Santos",8 horas en total,76,Todos los niveles,"15,99 €","99,99 €"
+"Creación de aplicaciones e interfaces gráficas con Python
+Aprende a crear tus propias interfaces gráficas y aplicaciones de escritorio con Python - Tkinter",Cristian Casis,69 horas en total,465,Todos los niveles,"24,99 €","29,99 €"
+"PHP 8, Laravel 9, Mysql, MongoDB, Webpay de Transbank
+PHP, Laravel, Webpay de Transbank, Integración con Paypal, API Rest, JWT, Blade",Fernando Herrera,3 horas en total,22,Principiante,"219,99 €",
+"Programación FullStack y Escritorio desde CERO a PROFESIONAL
+Sé programador profesional con JavaScript, HTML-CSS, jQuery, Node.js, Electron y React, todo en paralelo con Pascal.",Roberto Martín Castillo Ramos,"18,5 horas en total",153,Experto,"14,99 €","24,99 €"
+"Desarrollo de Aplicaciones con Algolia.
+Creando experiencias de búsqueda personalizadas, flexibles y eficaces.",Manuel Sánchez,"90,5 horas en total",320,Todos los niveles,"14,99 €","19,99 €"
+"Laravel Livewire y TDD: Crea un Portafolio Dinámico
+Construye un Portafolio Dinámico aplicando TDD con Laravel, Livewire, TailwindCSS y Alpine.js",Nadia Cavalleri,5 horas en total,41,Intermedio,"14,99 €","19,99 €"
+"Curso de Base de Datos SQLite
+Base de Datos SQLite",Elivar Largo,16 horas en total,67,Todos los niveles,"15,99 €","19,99 €"
+"Aprende Python desde cero
+Comienza a programar en Python desde un nivel básico hasta avanzado y coloca en práctica tus conocimientos",Juan Ignacio Marotti,"3,5 horas en total",36,Intermedio,"14,99 €","19,99 €"
+"Proceso CRUD (C Sharp y SQLite)
+C Sharp y SQLite",Joel Moreno,14 horas en total,121,Todos los niveles,"99,99 €",
+"¡Programación para padres e hijos!
+Curso básico para aprender a programar con el lenguaje de programación Scratch",Alonso Nava,"3,5 horas en total",27,Intermedio,"14,99 €","19,99 €"
+"Lógica de programación en 3 lenguajes
+Aprende a programar en C++, Java y Arduino",Jorge Maldonado B.,3 horas en total,47,Principiante,"14,99 €","94,99 €"
+"+100 Ejercicios Resueltos en Python
+Aprende a Programar en Python con ejercicios resueltos en Google Colab y Jupyter Notebook",Héctor Uriel Pérez,"16,5 horas en total",141,Principiante,"14,99 €","49,99 €"
+"Login y Registro de Usuarios con PHP, MySQL y Bootstrap
+Login con PHP y MySQL, Aprender PHP desde cero.",Fernando Vicente,"1,5 horas en total",234,Todos los niveles,"79,99 €","94,99 €"
+"Sistema de inventario con php8, MVC, POO, PDO y AdminLTE
+Como crear un sistema de inventario con php8, MVC, POO, PDO, JavaScript, Ajax, y AdminLTE",Daniel Lucas Hernández,"2,5 horas en total",46,Todos los niveles,"15,99 €","19,99 €"
+"MasterClass CSS
+Aprende CSS3 - Curso 100% Practico","Sebastian Tunnell, Lisandro A. Cesaratto","8,5 horas en total",19,Principiante,"14,99 €","94,99 €"
+"Proceso CRUD (C Sharp y Microsoft Access)
+C Sharp y Microsoft Access",Francisco Javier Arce Anguiano,"12,5 horas en total",50,Principiante,"24,99 €","29,99 €"
+"R Programming: Análisis de datos
+Regresión lineal, series de tiempo, gráficos avanzados y mucho más.",Apasoft Training,"3,5 horas en total",26,Intermedio,"15,99 €","19,99 €"
+"Testing Software: Masterclass para principiantes
+¡Aprende a testear con front-end, back-end, React, APIs y mucho más usando JavaScript y Python!","KNOWMENT Formación, consultoría y coaching",4 horas en total,38,Todos los niveles,"15,99 €","19,99 €"
+"Ruby on Rails 7 Hotwire Docker TailwindCSS
+Crea una aplicación de Ruby on Rails 7 utilizando Hotwire, Docker, TailwindCSS, PostgreSQL y Sendgrid.",Francisco Javier Arce Anguiano,3 horas en total,33,Principiante,"15,99 €","19,99 €"
+"Desarrolla tu primera aplicación utilizando DDD en Laravel
+Aprende a desarrollar aplicaciones escalables en Laravel",Pixel Pro Web,15 horas en total,120,Todos los niveles,"19,99 €","24,99 €"
+"Javascript intensivo - camino hacia React
+Fetch, Condicionales, Bucles, Map, Let y var, Relacionar con html y css, Archivos json, consumo de API y más!",Carlos Carmona,"2,5 horas en total",26,Experto,"14,99 €","84,99 €"
+"Creando un sistema de compra y venta + mvc + ajax
+Aprende a crear desde 0 un sistema de compra y venta",JM Navarro,16 horas en total,122,Principiante,"14,99 €","94,99 €"
+"Curso completo de HTML5 y CSS3 en español
+Aprende HTML y CSS desde 0 para crear tus páginas webs profesionales.",Alexander Bolaño Cervantes,19 horas en total,64,Principiante,"14,99 €","94,99 €"
+"Aprende a crear un videojuego EDUCATIVO en Unity.
+Programar una aplicación educativa usando el motor Unity.","Alvaro Chirou • 1.300.000+ Enrollments Worldwide, Brian De Vita",2 horas en total,28,Todos los niveles,"17,99 €","94,99 €"
+"Curso de WordPress 6.+ 2022
+Aprende WordPress 6.0 desde lo más básico",César Cancino Zapata,"18,5 horas en total",69,Todos los niveles,"14,99 €","19,99 €"
+"Aplicación de Chat en tiempo real
+Crea una aplicación de Chat y domina la lógica que se utiliza para la comunicación en tiempo real",Raul Figueroa,7 horas en total,24,Principiante,"14,99 €","19,99 €"
+"Desarrollo Web Profesional - Experto en HTML5 y CSS3
+Aprende Desarrollo Web con este curso de HTML y CSS desde cero hasta dominarlo y crea sitios con tu propio diseño web.",Jonathan Goyes,"6,5 horas en total",75,Todos los niveles,"14,99 €","19,99 €"
+"Desarrollo con Node.js. Aplicación, Testing y seguridad
+Aprende a desarrollar aplicaciones con Node, realizando todo el ciclo completo de desarrollo con un proyecto real.",Vladimir Rodríguez,21 horas en total,346,Todos los niveles,"14,99 €","94,99 €"
+"Web Scrapping y Web Automation con Power Automate Desktop
+Automatiza la extracción de datos y la automatización de botones web sin código con power automate desktop",Pablo Asensi,10 horas en total,74,Todos los niveles,"14,99 €","19,99 €"
+"Curso de Base de Datos MariaDB Server
+Base de Datos MariaDB Server",Fernando Andrade,6 horas en total,51,Intermedio,"14,99 €","44,99 €"
+"Bubble .io (No Code) Aprende Lenguaje de Programación Visual
+BubbleIO Plataforma de Desarrollo sin Código. Construye Aplicaciones Web NoCode sin Conocimientos de Desarrollo","Alberto González Tajuelo, Chiabit Education","5,5 horas en total",44,Intermedio,"14,99 €","19,99 €"
+"Comienza a programar: Python desde 0
+¡Únete al curso del lenguaje más popular y demandado de la actualidad!",Víctor Ramos,6 horas en total,48,Todos los niveles,"14,99 €","19,99 €"
+"Aprende Lenguaje C de CERO a EXPERTO
+Aprende a programar en C sin ningún conocimiento previo","Alain Nicolás Tello, María Santos, Frogames Support Team","3,5 horas en total",48,Principiante,"16,99 €","99,99 €"
+"Aprende Python de 0 a Master
+Curso de Python desde 0",Kenneth Trigueros Ramírez,"2,5 horas en total",24,Todos los niveles,"14,99 €","89,99 €"
+"Spring Boot,Thymeleaf,MySQL,MongoDB,API Rest
+API Rest, JWT, Webpay de Transbank, Paypal, Junit, Spring Security, JPA Repository","Codigo 369, Academia Apps, Proyectos Web","37,5 horas en total",142,Principiante,"14,99 €","94,99 €"
+"Especialización completa en Python
+Curso de alta especialidad en Python con constante actualización de temas",E. Daniel Valencia Martinez,"26,5 horas en total",175,Todos los niveles,"14,99 €","94,99 €"
+"Primer Curso DAM/DAW Programación.
+Programación en Java. Desarrollo de aplicaciones multiplataforma/web (DAM/DAW).",Francisco Javier Arce Anguiano,56 horas en total,394,Todos los niveles,"24,99 €","29,99 €"
+"Curso de Programación Python 1
+Programación desde cero",Apasoft Training,"1,5 horas en total",23,Principiante,"15,99 €","19,99 €"
+"Introducción a ShinyApps en R: crea aplicaciones web!
+Aprende a crear aplicaciones web con Shiny y permite que los usuarios interactuen con tus procedimientos de Data Science","KNOWMENT Formación, consultoría y coaching",5 horas en total,43,Intermedio,"15,99 €","19,99 €"
+"MasterClass HTML
+Introdúcete al mundo de la programación y vuélvete un experto",Francisco Javier Arce Anguiano,5 horas en total,62,Todos los niveles,"15,99 €","19,99 €"
+"API REST con PHP y MYSQL
+crea una api rest con php y usando el motor de base de datos mysql",Pixel Pro Web,4 horas en total,18,Principiante,"19,99 €","24,99 €"
+"Flask desde cero 2022 con Firebase
+curso practico de desarrollo web con python y flask con firebase",Edgardo M Lopez,"1,5 horas en total",11,Intermedio,"39,99 €","49,99 €"
+"Aprende a programar con Minecraft Education
+Conoce y aprende las herramientas que ofrece Minecraft Education así como la creación de tu propio mundo",Mariano Sosa,"5,5 horas en total",29,Principiante,"79,99 €","94,99 €"
+"Crea una web como Amazon parte 2: Adsense, seo y membresías
+Amazon Clone - GOOGLE ADSENSE, MEMBRESÍAS, SEO PLUS, Imagen Corporativa a nuestro sitio multi vendedor de WooCommerce",Bryan Rafael Andia,"2,5 horas en total",12,Principiante,"14,99 €","24,99 €"
+"Crea sistema POS Inventarios y ventas con Laravel 9 y Nuxt
+Aprende a crear tu sistema web para puntos de venta con manejo de inventarios y facturación utilizando Laravel 9 y Nuxt","Numpi Cursos, Hugo Aguilar Svonik",4 horas en total,27,Todos los niveles,"14,99 €","19,99 €"
+"WhatsApp API y Node JS Chatbot Enviar y recibir mensajes
+WhatsApp Cloud API | Meta | Node JS | Postman | Web App",Oscar Uh,13 horas en total,116,Todos los niveles,"14,99 €","29,99 €"
+"Python Pro
+¡Aprende Python como un profesional! ¡Comience desde lo básico y continúe creando sus propias aplicaciones!",Ing. Aldair Morales Cuéllar,3 horas en total,32,Todos los niveles,"14,99 €","24,99 €"
+"Curso de Base de Datos PostgreSQL Server
+Base de Datos PostgreSQL Server",Jesús Abraham Martínez Aguilar,14 horas en total,141,Todos los niveles,"14,99 €","19,99 €"
+"Crea un Sistema de Mesa de Ayuda con Google Apps Script MVC
+Crear aplicaciones ligeras en la plataforma Google Workspace y se mas pro-activo",Denisse Carolina Quiñones Noriega,4 horas en total,33,Intermedio,"79,99 €","94,99 €"
+"CRUD CON [PHP, MVC, POO, MYSQL]
+Aprende hacer una aplicación web",Portal Ingeniería | +60.000 Students,"26,5 horas en total",111,Intermedio,"14,99 €","19,99 €"
+"Aprende a crear un chat con el API de WhatsApp, MEAN STACK.
+Implementa un chat de WhatsApp en cualquier tipo de aplicativo.",Redait Media,2 horas en total,24,Intermedio,"14,99 €","94,99 €"
+"Crea una aplicación de realidad virtual con Unity y Photon
+Entra al campo de la realidad virtual con Meta Quest 2, Photon y Unity y emprende tu camino como desarrollador VR.","Álvaro García, Cursos Online Arquitectura, Formación Certificada, Lucía Fernández","5,5 horas en total",48,Principiante,"14,99 €","19,99 €"
+"Proceso CRUD (C Sharp y MySQL)
+C Sharp y MySQL",Jesús Abraham Martínez Aguilar,"9,5 horas en total",54,Intermedio,"14,99 €","94,99 €"
+"Master avanzado Android: Patrones de programación con Kotlin
+Lleva tus apps de Android a otro nivel. Patrones de diseño en Kotlin: Factory, Singleton, Builder, Decorator, Observer..",Álvaro Sempere Plaza,"4,5 horas en total",20,Intermedio,"14,99 €","19,99 €"
+"Delivery App en Flutter. Proyecto Real en desarrollo.
+Crea una App de Delivery en Flutter desde cero, un proyecto real en constante desarrollo al que podrás aportar ideas.",José Miguel Moya,"27,5 horas en total",145,Intermedio,"19,99 €","24,99 €"
+"Web API RESTful crear y consumir en Net MAUI y Net Core(C#)
+Aprende a crear una Web API y desarrolla una aplicación móvil con .NET MAUI y una aplicación web con NET CORE",Jhon Jairo Rincón,"47,5 horas en total",188,Todos los niveles,"14,99 €","19,99 €"
+"IPA-Automatización de Procesos Inteligente con Python [2023]
+Descubre el potencial de Intelligent Process Automation y automatiza tus tareas aburridas con IA y Machine Learning",Daniel Ernesto Bojorge Sequeira,"12,5 horas en total",137,Todos los niveles,"15,99 €","19,99 €"
+"Jetpack Compose: Curso definitivo desde 0 [2023]
+Aprende Jetpack Compose con MVVM, inyección de dependencias, testing, ejemplos reales y MUCHO MAS",Francisco Javier Arce Anguiano,4 horas en total,47,Todos los niveles,"24,99 €","29,99 €"
+"Micro-Frontend: Arquitectura de Aplicaciones Web Escalables
+Crea Aplicaciones Increíblemente Escalables con la Arquitectura de Micro-Frontend y con React",Apasoft Training,12 horas en total,122,Todos los niveles,"15,99 €","19,99 €"
+"Máster en MySQL y MariaDB Moderno
+Aprende MySQL/MariaDB Desde Cero: Operadores, Funciones, Relaciones, Join, Transacciones,Procedimientos,Eventos, Trigger","KNOWMENT Formación, consultoría y coaching",12 horas en total,103,Intermedio,"15,99 €","19,99 €"
+"Crea increíbles sitios web, en: PHP, MySQL, AJAX, + POO MVC!
+Desarrolla desde cero increíbles sitios web, del mundo real con PHP 8+, MySQL, AJAX, + POO MVC + WordPress!",Francisco Javier Arce Anguiano,24 horas en total,178,Todos los niveles,"15,99 €","19,99 €"
+"Aplicación web con CakePHP
+Crea una aplicación web sencilla y de forma rápida con CakePHP (Curso express para crear aplicaciones web con CakePHP)",Pixel Pro Web,35 horas en total,190,Todos los niveles,"19,99 €","24,99 €"
+"Introducción a Python para análisis de datos
+Aprendiendo Numpy, Pandas, Matplotlib y Seaborn",Juan Pablo Guamán Rodríguez,1 hora en total,13,Todos los niveles,"16,99 €","109,99 €"
+"Python para principiantes
+¿Quieres aprender Python? Aprende a programar con nuestros tutoriales en video con ejemplos sencillos y prácticos para c",César Cancino Zapata,"4,5 horas en total",46,Principiante,"14,99 €","19,99 €"
+"Master Java:Aprende a programar como un PRO en un solo curso
+El método ADS que debes seguir para ahorrar tiempo, aprender a programar y trabajar en tu carrera profesional",Julian Mesa,"3,5 horas en total",58,Principiante,"14,99 €","29,99 €"
+"Data science y machine learning en Python: modelos lineales
+Domina los algoritmos más populares de la ciencia de datos y machine learning en Python (regresión lineal, logística...)",Oscar Uh,"27,5 horas en total",216,Todos los niveles,"14,99 €","34,99 €"
+"Desarrolla Juegos en Diferentes Lenguajes con Mucha Practica
+Practica con Proyectos reales de Video Juegos con Python, HTML, CSS y JS. Aprende con Pura Practica para tu Portafolio.",Alan Rodriguez Lukifah,"12,5 horas en total",133,Todos los niveles,"14,99 €","49,99 €"
+"Máster Oracle Cursos de DBA OCA, OCP + Linux + SQL + Examen
+3 Cursos+ Examen Oficial Administración/administrador de base de datos Oracle OCA OCP+ Linux Ubuntu, Debian, CentOS+ SQL",Alberto Ariel Betancud,"14,5 horas en total",90,Todos los niveles,"39,99 €","49,99 €"
+"Curso Administrador Oracle DBA OCA y OCP 21c + Linux + SQL
+Administración de Base de Datos Oracle Certificaciones OCA y OCP + Curso de Linux (Ubunto, Debian, Centos) + Curso SQL",JAP Software,37 horas en total,357,Todos los niveles,"14,99 €","29,99 €"
+"EXPERTO en Programación Avanzada con Unity®2022 y C#
+Aprende contenido AVANZADO como: C#, Visual Studio, POO, Patrones de Diseño, SOLID, Custom Editor, Git, GitHub, Errores",Pablo Tilotta - +170k students,37 horas en total,357,Todos los niveles,"49,99 €","59,99 €"
+"Conferencia: REST VS SOAP
+Aprende las diferencias entre los distintos tipos de web services",Fernando Herrera,"11,5 horas en total",122,Experto,"219,99 €",
+"Kanban y Agile
+Aprende Kanban para el desarrollo en metodologías ágiles",Abel Oj Shicay,1 hora en total,6,Todos los niveles,"24,99 €","29,99 €"
+"Bootcamp Backend Master Spring Core - Spring Boot 2023
+Aprender Spring el framework empresarial mas usado del mundo","Numpi Cursos, Jorge Alberto Chavez Sarmiento","3,5 horas en total",57,Principiante,"14,99 €","94,99 €"
+"Curso de PUG desde cero: El más completo en Español
+Aprende PUG JS, el motor de plantillas HTML para Node.js paso a paso con ejercicios. La programación ha llegado a HTML5","Jesús Abraham Martínez Aguilar, Gregory Javier Martínez Aguilar","10,5 horas en total",93,Todos los niveles,"79,99 €","99,99 €"
+"Html y css intensivo - camino hacia REACT
+Class, sass, ccs3, html5 moderno, Flexbox, Animaciones, Rotaciones 3d, Paginas completas, Transiciones y más!",Manuel Adelmo Oropeza,5 horas en total,48,Todos los niveles,"14,99 €","19,99 €"
+"Python, Django y Webpay de Transbank
+Python, Mysql, Django, Rest Framework, Django Channels, Webpay de Transbank",César Cancino Zapata,"19,5 horas en total",167,Todos los niveles,"14,99 €","24,99 €"
+"Curso de PHP
+Aprende PHP a un nivel Básico a intermedio (En el curso hacemos un portafolio web y muchos ejercicios con PHP)",Vladimir Rodríguez,"38,5 horas en total",82,Principiante,"14,99 €","94,99 €"
+"Crea una tienda Virtual con WordPress + PayPal + MercadoPago
+Crea un sistema profesional completo con productos, inventarios, cuentas de usuarios, emails de respuesta y mucho más!","BD Tech, Camila Bastidas García García","7,5 horas en total",76,Todos los niveles,"24,99 €","29,99 €"
+"Blazor y SignalR. Comunica tus aplicaciones en tiempo real
+Aprende como comunicar tus aplicaciones en tiempo real con .NET Core, Blazor y SignalR",Francisco Javier Arce Anguiano,1 hora en total,10,Todos los niveles,"24,99 €","29,99 €"
+"Curso de Testing Backend con Postman - Api Testing 2022
+Aprendé a realizar testing de Backend desde cero utilizando Postman. No se necesitan conocimientos previos.",Apasoft Training,"5,5 horas en total",37,Intermedio,"15,99 €","19,99 €"
+"Bootcamp - JavaScript, jQuery completo desde cero a avanzado
+Controla JavaScript y jQuery desde cero, con este curso completo. Crea maravillosos proyectos web siguiendo este curso.","KNOWMENT Formación, consultoría y coaching",1 hora en total,23,Intermedio,"15,99 €","19,99 €"
+"Maneja DOCKER en 5 días. Mejora como SysAdmin Linux o DevOps
+Aprende con este curso lo más importante de Docker en Linux sin perder el tiempo en cosas que no usarás nunca.",Francisco Javier Arce Anguiano,18 horas en total,139,Todos los niveles,"15,99 €","19,99 €"
+"Curso de Python - Aprende desde cero
+Curso de Python",Pixel Pro Web,6 horas en total,48,Principiante,"19,99 €","24,99 €"
+"Sistema de ventas java con codigo de bara POO codigo fuente
+punto de venta ferreteria y minimarket en java y mysql",Gustavo Meza,"4,5 horas en total",26,Todos los niveles,"14,99 €","64,99 €"
+"Estadística en RStudio (R Programming Language)
+R Studio para estudiantes y profesionales",Víctor Ramos,1 hora en total,5,Principiante,"14,99 €","19,99 €"
+"Angular: Aprende a crear una landing page profesional
+Eleva tus conocimientos del Front-End al siguiente nivel: JSON animado, formularios reactivos, lazy load, bootstrap...",Mauricio Piñango,6 horas en total,37,Principiante,"14,99 €","19,99 €"
+"C++ (Intermedio)
+Estructura de Datos 1",Víctor Ramos,4 horas en total,63,Intermedio,"14,99 €","19,99 €"
+"Space Invaders con Unity2D- Programacion basica en C#
+Aprende los principios basicos de desarrollo de videojuegos",Brian De Vita,"4,5 horas en total",10,Intermedio,"14,99 €","54,99 €"
+"Zoho Deluge
+El poder de la programación de última generación",Francisco Misael Granados Orozco,4 horas en total,23,Principiante,"14,99 €","94,99 €"
+"Crear tienda online o ecommerce con MEVN y Mercado pago.
+Crea una tienda online con su panel administrador usando MEVN y mercado pago como pasarela.",Wilmer Planchez,3 horas en total,52,Experto,"14,99 €","19,99 €"
+"ASP.NET Core 7 y Angular en Kubernetes y Heroku
+ASP.NET Core 7 & Angular 14 | Deploy en Heroku | Kubernetes | Docker | SQL Server & MySql | Deploy en Servidores OnCloud",Limbergh Armando Morales Arellano,"26,5 horas en total",179,Principiante,"14,99 €","19,99 €"
+"Crea un sistema transaccional con Java y Postgresql (POO)
+Desarrolla un Sistema en Java, Postgresql, POO, 3 Capas, Refactorización, DDL, DML- Incluye PROYECTO FINAL",Luis Fernando Ramos,21 horas en total,148,Principiante,"14,99 €","19,99 €"
+"Aprende a Programar PLC con Ejemplos Prácticos
+Automatización Industrial",Javier Rodriguez,"4,5 horas en total",37,Todos los niveles,"14,99 €","24,99 €"
+"Automatización de procesos en ArcPy 10.8
+Python con ArcGIS",Víctor Ramos,2 horas en total,15,Todos los niveles,"14,99 €","19,99 €"
+"Domina SP PAGE BUILDER 3.x Editando una web educacional
+Aprende las bases de este constructor, curso SIEMPRE en actualización","Numpi Cursos, Jorge Alberto Chavez Sarmiento",4 horas en total,24,Intermedio,"14,99 €","94,99 €"
+"Sitio web con php y mysql
+Aprenda a usar el lenguaje más populares de internet llamado PHP y aplique sus conocimientos de HTML",Sergi Navarro,2 horas en total,31,Principiante,"14,99 €","19,99 €"
+"Python. Estructuras de datos y algoritmos en Python
+Aprende las estructuras de datos (colas, pilas, listas enlazadas, árboles y grafos) y también los algoritmos en Python",Jorge Ortiz,"3,5 horas en total",43,Todos los niveles,"14,99 €","94,99 €"
+"Metodología 12 Factor App
+La metodología que permite una construcción resiliente de aplicaciones web modernas",Cursosdesarrolloweb Online,6 horas en total,81,Principiante,"14,99 €","94,99 €"
+"Introducción al Testing de Software
+Curso introductorio explicando en detalle el rol del tester, las técnicas usadas y ejemplos prácticos!","Codigo 369, Academia Apps, Proyectos Web","2,5 horas en total",14,Principiante,"17,99 €","114,99 €"
+"Introducción a la programación en Python
+Curso Universitario de Python: teoría y práctica para futuros desarrolladores profesionales.",Francisco Javier Arce Anguiano,"4,5 horas en total",32,Principiante,"24,99 €","29,99 €"
+"Tailwind CSS: El curso definitivo
+Aprende a trabajar con TailwindCSS en detalle desde sus utilidades básicas hasta su parte más avanzada",Apasoft Training,14 horas en total,42,Principiante,"15,99 €","19,99 €"
