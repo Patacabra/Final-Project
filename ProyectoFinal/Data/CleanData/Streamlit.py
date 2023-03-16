@@ -67,7 +67,7 @@ linksreco = ['https://www.udemy.com/course/universidad-excel-microsoft-tablas-di
              'https://www.udemy.com/course/uso-profesional-de-tus-archivos-en-la-nube-con-google-drive/']
 
 
-st.title("Sistema de recomendación de cursos online")
+st.title("Plataformas disponibles:")
 
 # Cargar imágenes
 coursera_logo = Image.open("coursera-logo.png")
