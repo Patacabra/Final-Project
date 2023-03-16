@@ -27,27 +27,27 @@ He utilizado Tableau para visualizar los datos y tener una mejor idea de lo que 
 
 ### Precios de los cursos de Doméstika
 
-![](/Users/fernando/Desktop/Final-Project/ProyectoFinal/image/1.png)
+![](/ProyectoFinal/image/1.png)
 
 ### Nivel de los cursos de Udemy
 
-![](/Users/fernando/Desktop/Final-Project/ProyectoFinal/image/2.png)
+![](/ProyectoFinal/image/2.png)
 
 ### Organizaciones de los cursos de Coursera
 
-![](/Users/fernando/Desktop/Final-Project/ProyectoFinal/image/3.png)
+![](/ProyectoFinal/image/3.png)
 
 ## Sistema de recomendación
 Para el sistema de recomendación he utilizado un filtro colaborativo basado en usuarios.
 
 Como una imagen vale más que mil palabras... Aquí dejo una explicación gráfica de lo que viene a ser el filtro basado en usuarios:
 
-![](/Users/fernando/Desktop/Final-Project/ProyectoFinal/image/5.png)
+![](/ProyectoFinal/image/5.png)
 
 Este determina un patrón de gustos y preferencias.
 Utiliza los datos de un vecino cercano con características similares al inicial .
 
-![](/Users/fernando/Desktop/Final-Project/ProyectoFinal/image/4.png)
+![](/ProyectoFinal/image/4.png)
 
 El cual tiene una serie de beneficios tales como:
 
@@ -65,7 +65,7 @@ También se ha tenido que crear el nuevo usuario, con las calificaciones de los 
 ## APP WEB 
 Se ha creado una sencilla aplicación web a través de la librería Streamlit de python para empezar a poner en funcionamiento el proyecto 
 
-![](/Users/fernando/Desktop/Final-Project/ProyectoFinal/image/6.png)
+![](/ProyectoFinal/image/6.png)
 
 ## Extra
 
